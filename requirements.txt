@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+huggingface_hub
+openai==0.27.0  
+pydantic
